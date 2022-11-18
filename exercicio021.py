@@ -1,4 +1,5 @@
-import pygame #Inicializando o mixer PyGame
+import pygame
+#Inicializando o mixer PyGame
 pygame.mixer.init()
 
 # Iniciando o Pygame
